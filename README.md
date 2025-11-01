@@ -64,9 +64,53 @@ To mitigate these challenges, the following ServiceNow features are implemented:
 
 ---
 
-## 🚀 Technologies & Skills Used
-- **ServiceNow** platform administration
-- **TensorFlow** (optional ML insights such as priority prediction)
+---
+
+## 🧪 Key Features
+✅ Role-based access control  
+✅ Group-level permissions  
+✅ Automated task assignment workflow  
+✅ Approval processes  
+✅ Activity logs for accountability  
+
+---
+
+## 📈 Future Enhancements
+- Integration with predictive analytics using TensorFlow
+- Automated SLA measurement
+- Notification dashboards
+- Multi-team support
+
+---
+
+## 🛡 Security Considerations
+- Least privilege access
+- Database-backed identity verification
+- Auditing via workflow logs
+
+---
+
+## 🤝 Contribution Guidelines
+1. Fork the repository  
+2. Create a feature branch  
+3. Submit a pull request  
+4. Await review & approval  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 👤 Author
+**Lakshitha Annadurai**  
+ServiceNow | AI | Data Engineering Enthusiast
+
+---
+
+### ⭐ If you found this useful, consider giving the repo a star!
+
 - **Oracle DB** for database storage and user record persistence
 
 ---
